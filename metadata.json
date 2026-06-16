@@ -1,0 +1,6 @@
+{
+  "name": "AI 사주 코치",
+  "description": "사주 명리학과 최신 AI 기술을 결합한 프리미엄 인생 가이드 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
